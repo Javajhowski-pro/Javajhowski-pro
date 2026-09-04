@@ -1,27 +1,13 @@
-# Hi, I'm Jojo Villamor 👋
+# Hi, I'm JHOW👋
 
 ## About Me
 
-IT Support Engineer/Service Desk Engineer with 5+ years of experience in:
+IT Support Engineer | System Administrator & CCNA Student
+Building hands-on experience in Systems Administration, Network Engineering, Windows Server, Active Directory, DNS.
 
-- Active Directory
-- Microsoft 365
-- Azure
-- Identity & Access Management
-- Service Desk Operations
-- IT Operation
-- Basic Networking
+## 🖥️ IT HomeLab Projects
 
-## Currently Learning
-- System Administrator
-- CCNA
-    
-## Current Projects
-- System Administrator HomeLab Documentation in networking relation
-- CCNA Packet Tracer Labs23
-  
-- ## Career Goals for 2026
-- Pass CCNA
-- Transition into Network Engineering
-- Strengthen System Administrator and Networking skills
+- [Enterprise Active Directory Lab on Proxmox VE](https://github.com/Javajhowski-pro/Active-Directory-Proxmox-homelab)
+
+
 
