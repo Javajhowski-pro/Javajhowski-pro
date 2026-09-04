@@ -3,7 +3,7 @@
 ## About Me
 
 IT Support Engineer | System Administrator & CCNA Student
-Building hands-on experience in Systems Administration, Network Engineering, Windows Server, Active Directory, DNS.
+-Building hands-on experience in Systems Administration, Network Engineering, Windows Server, Active Directory, DNS.
 
 ## 🖥️ IT HomeLab Projects
 
