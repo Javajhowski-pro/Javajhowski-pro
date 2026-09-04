@@ -13,6 +13,7 @@ IT Support Engineer/Service Desk Engineer with 5+ years of experience in:
 - Basic Networking
 
 ## Currently Learning
+- System Administrator
 - CCNA
 - Network Engineering
   
