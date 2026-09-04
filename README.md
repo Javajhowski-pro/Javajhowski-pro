@@ -15,15 +15,13 @@ IT Support Engineer/Service Desk Engineer with 5+ years of experience in:
 ## Currently Learning
 - System Administrator
 - CCNA
-- Network Engineering
-  
+    
 ## Current Projects
+- System Administrator HomeLab Documentation in networking relation
 - CCNA Packet Tracer Labs23
-- HomeLab Documentation
-- PowerShell Script
   
 - ## Career Goals for 2026
 - Pass CCNA
 - Transition into Network Engineering
-- Strengthen Cloud & Security Skills
+- Strengthen System Administrator and Networking skills
 
