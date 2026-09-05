@@ -9,7 +9,7 @@ Building hands-on experience in Systems Administration, Network Engineering, Win
 ## 🖥️ IT HomeLab Projects
 
 - [Enterprise Active Directory Lab on Proxmox VE](https://github.com/Javajhowski-pro/Active-Directory-Proxmox-homelab)
-| Active Directory, DNS, OU, Security Groups, RBAC, and Windows 11 Domain Administration.
+| Windows Server 2022 • AD DS • DNS  • Security Groups • Domain Join.
 
 ## 📜 Professional Certificates
 
