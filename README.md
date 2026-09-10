@@ -8,8 +8,7 @@ Building hands-on experience in System Administration, Active Directory, Network
 
 ## 🖥️ IT HomeLab Projects
 
-#### [Homelab Infrastructure](https://github.com/zerotrustph/homelab-infrastructure)
-  - Proxmox VE Virtual Machines • Network Topology • Infrastructure Design • Lab Architecture
+#### [Homelab Infrastructure](https://github.com/zerotrustph/homelab-infrastructure) Proxmox VE Virtual Machines • Network Topology • Infrastructure Design • Lab Architecture
 
 # [Enterprise Active Directory Lab](https://github.com/Javajhowski-pro/Active-Directory-Proxmox-homelab)
   - Windows Server 2022 • AD DS • DNS • Domain Join • Security Groups • Delegate Administration • Least Privilege Access
