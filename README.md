@@ -15,7 +15,7 @@ Building hands-on experience in System Administration, Active Directory, Network
   - Windows Server 2022 • AD DS • DNS • Domain Join • Security Groups • Delegate Administration • Least Privilege Access
 
  - [Networking & MikroTik Labs](https://github.com/zerotrustph/Networking-MikroTik-Labs)
-   - MikroTik RouterOS • Firewall Configuration • NAT • VPN • VLANs • Routing • Network Security Hardening • CCNA Practice Labs
+  # MikroTik RouterOS • Firewall Configuration • NAT • VPN • VLANs • Routing • Network Security Hardening • CCNA Practice Labs
 
 ## 📜 Professional Certificates
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/villamorjojo-7796/credentials/339bb8ca76a685a8?ref=https%3A%2F%2Fwww.linkedin.com%2F)
