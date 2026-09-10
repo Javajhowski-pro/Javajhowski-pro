@@ -8,7 +8,7 @@ Building hands-on experience in System Administration, Active Directory, Network
 
 ## 🖥️ IT HomeLab Projects
 
-# [Homelab Infrastructure](https://github.com/zerotrustph/homelab-infrastructure)
+#### [Homelab Infrastructure](https://github.com/zerotrustph/homelab-infrastructure)
   - Proxmox VE Virtual Machines • Network Topology • Infrastructure Design • Lab Architecture
 
 # [Enterprise Active Directory Lab](https://github.com/Javajhowski-pro/Active-Directory-Proxmox-homelab)
