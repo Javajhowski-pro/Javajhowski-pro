@@ -11,6 +11,8 @@ Building hands-on experience in Systems Administration, Network Engineering, Win
 - [Enterprise Active Directory Lab on Proxmox VE](https://github.com/Javajhowski-pro/Active-Directory-Proxmox-homelab)
   - Windows Server 2022 • AD DS • DNS • Domain Join • Security Groups • Delegate Administration • Least Privilege Access
 
+### Homelab Infrastructure
+
 ## 📜 Professional Certificates
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/villamorjojo-7796/credentials/339bb8ca76a685a8?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
