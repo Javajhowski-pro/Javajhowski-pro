@@ -14,7 +14,7 @@ Building hands-on experience in System Administration, Active Directory, Network
 - [Enterprise Active Directory Lab](https://github.com/Javajhowski-pro/Active-Directory-Proxmox-homelab) 
 • Windows Server 2022 • AD DS • DNS • Domain Join • Security Groups • Delegate Administration • Least Privilege Access
 
-- Networking & MikroTik Labs](https://github.com/zerotrustph/Networking-MikroTik-Labs)
+- [Networking & MikroTik Labs](https://github.com/zerotrustph/Networking-MikroTik-Labs)
 • MikroTik RouterOS • Firewall Configuration • NAT • VPN • VLANs • Routing • Network Security Hardening • CCNA Practice Labs
 
 ## 📜 Professional Certificates
