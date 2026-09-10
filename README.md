@@ -10,10 +10,12 @@ Building hands-on experience in System Administration, Active Directory, Network
 
 #### [Homelab Infrastructure](https://github.com/zerotrustph/homelab-infrastructure) 
 • Proxmox VE Virtual Machines • Network Topology • Infrastructure Design • Lab Architecture
-#### [Enterprise Active Directory Lab](https://github.com/Javajhowski-pro/Active-Directory-Proxmox-homelab) Windows Server 2022 • AD DS • DNS • Domain Join • Security Groups • Delegate Administration • Least Privilege Access
 
-# [Networking & MikroTik Labs](https://github.com/zerotrustph/Networking-MikroTik-Labs)
-  - MikroTik RouterOS • Firewall Configuration • NAT • VPN • VLANs • Routing • Network Security Hardening • CCNA Practice Labs
+#### [Enterprise Active Directory Lab](https://github.com/Javajhowski-pro/Active-Directory-Proxmox-homelab) 
+• Windows Server 2022 • AD DS • DNS • Domain Join • Security Groups • Delegate Administration • Least Privilege Access
+
+#### [Networking & MikroTik Labs](https://github.com/zerotrustph/Networking-MikroTik-Labs)
+• MikroTik RouterOS • Firewall Configuration • NAT • VPN • VLANs • Routing • Network Security Hardening • CCNA Practice Labs
 
 ## 📜 Professional Certificates
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/villamorjojo-7796/credentials/339bb8ca76a685a8?ref=https%3A%2F%2Fwww.linkedin.com%2F)
