@@ -12,7 +12,7 @@ Building hands-on experience in Systems Administration, Network Engineering, Win
   - Windows Server 2022 • AD DS • DNS • Domain Join • Security Groups • Delegate Administration • Least Privilege Access
 
 ## 📜 Professional Certificates
-- Microsoft Certified: Azure Fundamentals (https://learn.microsoft.com/en-us/users/villamorjojo-7796/credentials/339bb8ca76a685a8?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/villamorjojo-7796/credentials/339bb8ca76a685a8?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ## 📒 Trainings Attended and Certifications
 - [Introduction to Cybersecurity](https://www.credly.com/badges/c1f033e7-444c-49bd-9e8d-7ebb93ec8dae/linked_in_profile)
