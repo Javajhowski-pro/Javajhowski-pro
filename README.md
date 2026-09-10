@@ -16,4 +16,4 @@ Building hands-on experience in Systems Administration, Network Engineering, Win
 
 ## 📒 Trainings Attended and Certifications
 - [Introduction to Cybersecurity](https://www.credly.com/badges/c1f033e7-444c-49bd-9e8d-7ebb93ec8dae/linked_in_profile)
--
+- [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/CVMBHKXMGJMV)
